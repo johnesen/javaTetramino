@@ -84,7 +84,7 @@ public class Shape {
         for (int i=0; i < 4; i++) {
             m = Math.min(m, coords[i][0]);
         }
-z
+
         return m;
     }
 
